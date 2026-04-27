@@ -1,2 +1,2 @@
-# Mama-im-a-python-developer
+# Mama-I'm-a-python-developer
 A collection of scripts and functions to prove that I am, in fact, becoming a Python developer. One syntax error at a time. Lord have mercy.
