@@ -8,10 +8,10 @@ def find_largest(test_strings):
     return result
 
 test_strings = [
-    "Hello World!",
-    "Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.",
-    "And how can this be? For he is the Kwisatz Haderach!",
-    "Four score and seven years ago",
+    'Hello World!',
+    'Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.',
+    'And how can this be? For he is the Kwisatz Haderach!',
+    'Four score and seven years ago',
 ]
 
 largest_string = find_largest(test_strings)
